@@ -6,7 +6,7 @@ The filter estimates a robot's position and orientation over time by fusing nois
 
 ## Demo
 
-![Particle filter demo](demo.gif)
+https://github.com/user-attachments/assets/29c2e19d-fd76-4e96-8919-62e89540e1dc
 
 Watch the particle cloud (orange) converge on the true robot path (blue) in real time as landmark observations correct for motion drift.
 
